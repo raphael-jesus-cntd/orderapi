@@ -16,7 +16,7 @@ Clone o repositório:
 
 ```bash
   git clone https://github.com/raphael-jesus-cntd/orderapi.git
-cd nome-do-repositorio
+  cd orderapi
 ```
 Crie o banco de dados e as tabelas:
 
