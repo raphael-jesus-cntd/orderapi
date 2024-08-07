@@ -15,7 +15,7 @@ Este projeto é uma API RESTful desenvolvida em Java 17 utilizando Spring Boot. 
 Clone o repositório:
 
 ```bash
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  git clone https://github.com/raphael-jesus-cntd/orderapi.git
 cd nome-do-repositorio
 ```
 Crie o banco de dados e as tabelas:
